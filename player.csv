@@ -1,0 +1,203 @@
+Player_id,Player_name,Team_id
+1,Nitish Rana,1
+2,Rinku Singh,1
+3,Karun Nair,1
+4,Eoin Morgan C,1
+5,Shubman Gill ,1
+6,Rahul Tripathi ,1
+7,Tim Seifert,1
+8,Dinesh Karthik ,1
+9,Sheldon Jackson,1
+10,Andre Russell ,1
+11,Sunil Narine ,1
+12,Shakib Al Hasan ,1
+13,Ben Cutting,1
+14,Venkatesh Iyer,1
+15,Pawan Negi,1
+16,Harbhajan Singh,1
+17,Sandeep Warrier ,1
+18,Prasidh Krishna ,1
+19,Varun Chakravarthy ,1
+20,Vaibhav Arora,1
+21,Kamlesh Nagarkoti ,1
+22,Kuldeep Yadav ,1
+23,Shivam Mavi ,1
+24,Lockie Ferguson ,1
+25,Pat Cummins ,1
+26,Tim Southee,1
+27,Virat Kohli C,2
+28,Rajat Patidar,2
+29,Suyash Prabhudessai,2
+30,Sachin Baby ,2
+31,Devdutt Padikkal ,2
+32,AB de Villiers ,2
+33,Mohammed Azharuddin,2
+34,Finn Allen ,2
+35,KS Bharat,2
+36,Shahbaz Ahamad ,2
+37,Glenn Maxwell,2
+38,Washington Sundar ,2
+39,Pavan Deshpande ,2
+40,Daniel Christian,2
+41,Wanindu Hasaranga,2
+42,Tim David,2
+43,Daniel Sams,2
+44,Navdeep Saini ,2
+45,Yuzvendra Chahal ,2
+46,Mohammed Siraj ,2
+47,Kane Richardson ,2
+48,Kyle Jamieson,2
+49,Harshal Patel,2
+50,Dushmantha Chameera,2
+51,George Garton,2
+52,Suresh Raina ,3
+53,Ambati Rayudu ,3
+54,Faf du Plessis ,3
+55,Ruturaj Gaikwad,3
+56,Cheteshwar Pujara,3
+57,C Hari Nishanth,3
+58,Mahendra Singh Dhoni C,3
+59,Robin Uthappa,3
+60,N Jagadeesan,3
+61,Karn Sharma ,3
+62,Dwayne Bravo ,3
+63,Ravindra Jadeja ,3
+64,Sam Curran ,3
+65,Moeen Ali ,3
+66,K Gowtham,3
+67,Harishankar Reddy,3
+68,Bhagath Varma,3
+69,Lungi Ngidi ,3
+70,Mitchell Santner ,3
+71,KM Asif ,3
+72,Deepak Chahar ,3
+73,Imran Tahir ,3
+74,Shardul Thakur ,3
+75,R Sai Kishore,3
+76,Yashasvi Jaiswal ,4
+77,Manan Vohra ,4
+78,Riyan Parag ,4
+79,David Miller ,4
+80,Sanju Samson  C,4
+81,Jos Buttler ,4
+82,Anuj Rawat ,4
+83,Glen Phillips,4
+84,Chris Morris,4
+85,Shivam Dube,4
+86,Ben Stokes ,4
+87,Rahul Tewatia ,4
+88,Mahipal Lomror ,4
+89,Shreyas Gopal ,4
+90,Liam Livingstone,4
+91,Kuldip Yadav,4
+92,Andrew Tye ,4
+93,Mustafizur Rahman,4
+94,Jaydev Unadkat ,4
+95,Kartik Tyagi ,4
+96,Mayank Markande ,4
+97,Jofra Archer ,4
+98,Chetan Sakariya,4
+99,KC Cariappa,4
+100,Akash Singh,4
+101,Tabraiz Shamsi,4
+102,Mayank Agarwal ,5
+103,Chris Gayle,5
+104,Nicholas Pooran ,5
+105,Sarfaraz Khan ,5
+106,Dawid Malan,5
+107,Shahrukh Khan,5
+108,KL Rahul C,5
+109,Prabsimran Singh ,5
+110,Mandeep Singh ,5
+111,Moises Henriques,5
+112,Jalaj Saxena,5
+113,Utkarsh Singh,5
+114,Deepak Hooda ,5
+115,Fabian Allen,5
+116,Adil Rashid,5
+117,Nathan Ellis,5
+118,Chris Jordan ,5
+119,Jhye Richardson,5
+120,Riley Meredith,5
+121,Ishan Porel ,5
+122,Darshan Nalkande ,5
+123,Murugan Ashwin ,5
+124,Ravi Bishnoi ,5
+125,Harpreet Brar ,5
+126,Mohammed Shami ,5
+127,Arshdeep Singh ,5
+128,Saurabh Kumar,5
+129,Rohit Sharma C,6
+130,Saurabh Tiwary,6
+131,Suryakumar Yadav ,6
+132,Anmolpreet Singh,6
+133,Chris Lynn ,6
+134,Ishan Kishan ,6
+135,Aditya Tare ,6
+136,Quinton De Kock ,6
+137,Hardik Pandya ,6
+138,Krunal Pandya ,6
+139,Anukul Roy,6
+140,Arjun Tendulkar,6
+141,James Neesham ,6
+142,Jayant Yadav ,6
+143,Kieron Pollard ,6
+144,Nathan Coulter-Nile ,6
+145,Yudhvir Singh,6
+146,Trent Boult ,6
+147,Adam Milne ,6
+148,Marco Jansen,6
+149,Mohsin Khan,6
+150,Dhawal Kulkarni,6
+151,Jasprit Bumrah ,6
+152,Piyush Chawla,6
+153,Rahul Chahar ,6
+154,Shikhar Dhawan,7
+155,Steve Smith,7
+156,Ripal Patel,7
+157,Prithvi Shaw ,7
+158,Ajinkya Rahane,7
+159,Shimron Hetmyer,7
+160,Sam Billings,7
+161,Rishabh Pant C,7
+162,Vishnu Vinod,7
+163,Tom Curran ,7
+164,Marcus Stoinis ,7
+165,Chris Woake,7
+166,Axar Patel,7
+167,Lalit Yadav,7
+168,M Siddarth,7
+169,Pravin Dubey,7
+170,Kagiso Rabada ,7
+171,Anrich Nortje,7
+172,Avesh Khan ,7
+173,Umesh Yadav ,7
+174,R Ashwin ,7
+175,Amit Mishra,7
+176,Ishant Sharma ,7
+177,Lukman Meriwala,7
+178,David Warner C,8
+179,Kane Williamson ,8
+180,Virat Singh ,8
+181,Manish Pandey ,8
+182,Priyam Garg,8
+183,Jason Roy,8
+184,Wriddhiman Saha ,8
+185,Jonny Bairstow ,8
+186,Sreevats Goswami,8
+187,Kedar Jadhav,8
+188,J Suchit,8
+189,Jason Holder ,8
+190,Abhishek Sharma,8
+191,Abdul Samad ,8
+192,Vijay Shankar ,8
+193,Mohammad Nabi ,8
+194,Rashid Khan ,8
+195,T Natarajan ,8
+196,Sandeep Sharma ,8
+197,Bhuvneshwar Kumar ,8
+198,Khaleel Ahmed ,8
+199,Siddharth Kaul ,8
+200,Basil Thampi ,8
+201,Shahbaz Nadeem,8
+202,Mujeeb ur Rahman ,8
